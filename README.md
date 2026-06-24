@@ -59,8 +59,7 @@ Technology contributes the highest share of sales (40.12%), followed by Furnitur
 * Business Intelligence & Analytics
 
 ## 📷 Dashboard Preview
-Sales Performance Tracker Dashboard(https://github.com/skmushraf/Retails-sales-dashboard-/blob/main/Dashboard%20preview.png)
-
+Sales Performance Tracker Dashboard (https://github.com/skmushraf/Retails-sales-dashboard-/blob/main/dashboard%20preview.png)
 🚀 Project Outcome
 This dashboard transforms raw e-commerce data into meaningful business insights by providing a centralized view of sales, profit, customer segments, regional performance, and product trends. It helps stakeholders identify growth opportunities, evaluate performance, and make informed strategic decisions.
 
